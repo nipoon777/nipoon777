@@ -5,13 +5,12 @@
   <samp>
 I am a graduate student studying Software Engineering at Arizona State University, Tempe, USA. I am a Software Developer with a passion for Web Development and Problem Solving. I am a curious learner trying to improve my skills and learn new things. 
   </samp><br><br>
-<p align="center"><samp>Take a look at my project, you can find the following kind of projects in my profile:</samp></p>
-<!--     <ul>
-       <li><a href="https://github.com/ayushazuri/Portfolio-Website"><samp>Portfolio Website.</samp></a></li>
+<p align="center"><samp>Take a look at my projects, you can find the following kind of projects in my profile:</samp></p>
+    <ul>
       <li>
-          <samp>Clones of Websites such as <a href="https://github.com/ayushazuri/Amazon-Clone"><samp>Amazon</samp></a>, <a href="https://github.com/ayushazuri/Netflix-Clone">Netflix</a>, <a href="https://github.com/ayushazuri/Zoom-Clone">Zoom</a>, <a href="https://github.com/ayushazuri/whatsapp-clone">Whatsapp</a>.</samp>
+          <samp>Clones of Websites such as <a href="https://github.com/nipoon777/CameraApplication"><samp>Camera</samp></a>, <a href="https://github.com/nipoon777/ExcelClone">Excel</a>, <a href="#">Reels</a>, <a href="https://github.com/nipoon777/Movies">Movie Reviews</a>.</samp>
       </li>
-      <li>  -->
+      <li> 
 <!--         <samp><samp>Backend Projects such as <a href="https://github.com/ayushazuri/task-manager-express-api">Task Manager API</a>, <a href="https://github.com/ayushazuri/todo-app-firebase">Todo app using Firebase</a>, <a href="https://github.com/ayushazuri/data-manager">Data Manager</a>.</samp>
       </li> -->
       <li><samp>Repo containing solution to various problems on <a href="https://github.com/nipoon777/Data-Structure-And-Algorithms">Data Structure and Algorithms </a></samp>         </li>
