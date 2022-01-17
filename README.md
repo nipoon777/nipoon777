@@ -1,4 +1,4 @@
-<!-- <img src="./Nipoon Donta.png"> -->
+<img src="./Nipoon Donta.png">
 <h1 align="center">Hi there 👋, I am Nipoon Donta</h1>
 
 <p align="center">
