@@ -6,18 +6,18 @@
 I am a graduate student studying Software Engineering at Arizona State University, Tempe, USA. I am a Software Developer with a passion for Web Development and Problem Solving. I am a curious learner trying to improve my skills and learn new things. 
   </samp><br><br>
 <p align="center"><samp>Take a look at my project, you can find the following kind of projects in my profile:</samp></p>
-    <ul>
-<!--       <li><a href="https://github.com/ayushazuri/Portfolio-Website"><samp>Portfolio Website.</samp></a></li>
+<!--     <ul>
+       <li><a href="https://github.com/ayushazuri/Portfolio-Website"><samp>Portfolio Website.</samp></a></li>
       <li>
           <samp>Clones of Websites such as <a href="https://github.com/ayushazuri/Amazon-Clone"><samp>Amazon</samp></a>, <a href="https://github.com/ayushazuri/Netflix-Clone">Netflix</a>, <a href="https://github.com/ayushazuri/Zoom-Clone">Zoom</a>, <a href="https://github.com/ayushazuri/whatsapp-clone">Whatsapp</a>.</samp>
       </li>
-      <li> -->
+      <li>  -->
 <!--         <samp><samp>Backend Projects such as <a href="https://github.com/ayushazuri/task-manager-express-api">Task Manager API</a>, <a href="https://github.com/ayushazuri/todo-app-firebase">Todo app using Firebase</a>, <a href="https://github.com/ayushazuri/data-manager">Data Manager</a>.</samp>
-      </li>
-      <li><samp>Repo containing solution to various problems on Data Structure and Algorithms <a href="https://github.com/ayushazuri/Data_Structures_and_Algorithms_2021">Intermediate Level</a>, <a href="https://github.com/ayushazuri/Data-Structures-and-Algorithms">Beginner Level</a>.</samp></li> -->
+      </li> -->
+      <li><samp>Repo containing solution to various problems on <a href="https://github.com/nipoon777/Data-Structure-And-Algorithms">Data Structure and Algorithms </a></samp>         </li>
       <li><samp>Check out few more <a href="https://github.com/nipoon777?tab=repositories">Repositories</a></samp></li>
-    </ul><br><br>
-<!--     <div align="center"><img src="https://komarev.com/ghpvc/?username=nipoon777" alt="nipoon777" /> </div> -->
+    </ul><br><br> 
+    <div align="center"><img src="https://komarev.com/ghpvc/?username=nipoon777" alt="nipoon777" /> </div> 
 </p>
 
 <h2 align="center">💻 Technology Stack</h2>
