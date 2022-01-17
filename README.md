@@ -8,11 +8,10 @@ I am a graduate student studying Software Engineering at Arizona State Universit
 <p align="center"><samp>Take a look at my projects, you can find the following kind of projects in my profile:</samp></p>
     <ul>
       <li>
-          <samp>Clones of Websites such as <a href="https://github.com/nipoon777/CameraApplication"><samp>Camera</samp></a>, <a href="https://github.com/nipoon777/ExcelClone">Excel</a>, <a href="#">Reels</a>, <a href="https://github.com/nipoon777/Movies">Movie Reviews</a>.</samp>
+          <samp>Clones of Applications such as <a href="https://github.com/nipoon777/CameraApplication"><samp>Camera</samp></a>, <a href="https://github.com/nipoon777/ExcelClone">Excel</a>, <a href="#">Reels</a>, <a href="https://github.com/nipoon777/Movies">Movie Reviews</a>.</samp>
       </li>
-      <li> 
-<!--         <samp><samp>Backend Projects such as <a href="https://github.com/ayushazuri/task-manager-express-api">Task Manager API</a>, <a href="https://github.com/ayushazuri/todo-app-firebase">Todo app using Firebase</a>, <a href="https://github.com/ayushazuri/data-manager">Data Manager</a>.</samp>
-      </li> -->
+      <li><samp><samp>Scripting Application such as <a href="https://github.com/nipoon777/100DaysOfCode">Web Scrapping</a>, <a href="https://github.com/nipoon777/Dev/tree/master/6.AutoAwaitPromise/activity">Puppeeter Automation </a>, <a href="https://github.com/nipoon777/Dev/tree/master/1.FileSystem/Activity">File Systems</a>.</samp>
+      </li> 
       <li><samp>Repo containing solution to various problems on <a href="https://github.com/nipoon777/Data-Structure-And-Algorithms">Data Structure and Algorithms </a></samp>         </li>
       <li><samp>Check out few more <a href="https://github.com/nipoon777?tab=repositories">Repositories</a></samp></li>
     </ul><br><br> 
@@ -42,3 +41,12 @@ I am a graduate student studying Software Engineering at Arizona State Universit
 <img src="https://github-readme-stats.vercel.app/api?username=nipoon777&show_icons=true&theme=radical" alt="nipoon777" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipoon777&layout=compact" alt="nipoon777" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
+
+<h2 align="center" id="contact">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/nipoondonta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nipoon.donta7@gmail.com?subject=Hello%Nipoon,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nipoon_7/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/niprocks/"><img src="https://img.shields.io/badge/facebook-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
