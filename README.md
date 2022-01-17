@@ -14,7 +14,6 @@ I am a graduate student studying Software Engineering at Arizona State Universit
       </li>
       <li><samp><samp>Scripting Application such as <a href="https://github.com/nipoon777/100DaysOfCode">Web Scrapping</a>, <a href="https://github.com/nipoon777/Dev/tree/master/6.AutoAwaitPromise/activity">Puppeeter Automation</a>, <a href="https://github.com/nipoon777/Dev/tree/master/1.FileSystem/Activity">File Systems</a>.</samp>
       </li> 
-     
       <li><samp>Check out few more <a href="https://github.com/nipoon777?tab=repositories">Repositories</a></samp></li>
     </ul><br><br> 
     <div align="center"><img src="https://komarev.com/ghpvc/?username=nipoon777" alt="nipoon777" /> </div> 
