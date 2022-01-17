@@ -15,9 +15,9 @@ I am a graduate student studying Software Engineering at Arizona State Universit
         <samp><samp>Backend Projects such as <a href="https://github.com/ayushazuri/task-manager-express-api">Task Manager API</a>, <a href="https://github.com/ayushazuri/todo-app-firebase">Todo app using Firebase</a>, <a href="https://github.com/ayushazuri/data-manager">Data Manager</a>.</samp>
       </li>
       <li><samp>Repo containing solution to various problems on Data Structure and Algorithms <a href="https://github.com/ayushazuri/Data_Structures_and_Algorithms_2021">Intermediate Level</a>, <a href="https://github.com/ayushazuri/Data-Structures-and-Algorithms">Beginner Level</a>.</samp></li>
-      <li><samp>Check out few more <a href="https://github.com/ayushazuri?tab=repositories">Repositories</a></samp></li>
+      <li><samp>Check out few more <a href="https://github.com/nipoon777?tab=repositories">Repositories</a></samp></li>
     </ul><br><br>
-    <div align="center"><img src="https://komarev.com/ghpvc/?username=ayushazuri" alt="ayushazuri" /> </div>
+    <div align="center"><img src="https://komarev.com/ghpvc/?username=nipoon777" alt="nipoon777" /> </div>
 </p>
 
 <h2 align="center">💻 Technology Stack</h2>
@@ -40,6 +40,6 @@ I am a graduate student studying Software Engineering at Arizona State Universit
 
 <h2 align="center"📈 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushazuri&show_icons=true&theme=radical" alt="ayushazuri" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushazuri&layout=compact" alt="ayushazuri" />&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api?username=nipoon777&show_icons=true&theme=radical" alt="nipoon777" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipoon777&layout=compact" alt="nipoon777" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
