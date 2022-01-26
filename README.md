@@ -10,7 +10,7 @@ I am a graduate student studying Software Engineering at Arizona State Universit
       <li>
         <samp>Repo containing solution to various problems on <a href="https://github.com/nipoon777/Data-Structure-And-Algorithms">Data Structure and Algorithms </a></samp>          </li>
       <li>
-          <samp><a href="https://clone-websites.netlify.app/">Clones </a>of Applications such as <a href="https://github.com/nipoon777/Dev/blob/master/ReactCrashCourse/reels/">Reels</a>, <a href="https://github.com/nipoon777/ExcelClone">Excel</a>, <a href="https://github.com/nipoon777/CameraApplication"><samp>Camera</samp></a>, <a href="https://github.com/nipoon777/Movies">Movie Reviews</a>.</samp>
+          <samp><a href="https://clone-websites.netlify.app/">Clones</a> of Applications such as <a href="https://github.com/nipoon777/Dev/blob/master/ReactCrashCourse/reels/">Reels</a>, <a href="https://github.com/nipoon777/ExcelClone">Excel</a>, <a href="https://github.com/nipoon777/CameraApplication"><samp>Camera</samp></a>, <a href="https://github.com/nipoon777/Movies">Movie Reviews</a>.</samp>
       </li>
       <li><samp><samp>Scripting Application such as <a href="https://github.com/nipoon777/100DaysOfCode">Web Scrapping</a>, <a href="https://github.com/nipoon777/Dev/tree/master/6.AutoAwaitPromise/activity">Puppeeter Automation</a>, <a href="https://github.com/nipoon777/Dev/tree/master/1.FileSystem/Activity">File Systems</a>.</samp>
       </li> 
